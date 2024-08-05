@@ -17,13 +17,13 @@ python app.py
 The application will be available at http://localhost:5000 by default.
 
 ### **API Endpoints**
-+ 1. User Management
++ User Management
   + POST /api/register: Register a new user
   + POST /api/login: Log in a user
   + GET /api/users/{id}: Get user details
-+ 2.Flight Search
++ Flight Search
   + GET /api/flights: Search for flights
   + GET /api/flights/{id}: Get flight details
-+ 3.Booking
++ Booking
   + POST /api/bookings: Create a new booking
   + GET /api/bookings/{id}: Get booking details
