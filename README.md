@@ -1,5 +1,5 @@
-Flight Booking Project
-Overview
+# **Flight Booking Project**
+## **Overview**
 The Flight Booking Project is a web application that allows users to search for, book, and manage flights. It includes functionalities for user management, flight information, and booking operations.
 
 Features
