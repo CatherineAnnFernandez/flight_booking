@@ -8,7 +8,7 @@ Flight Search: Search for available flights based on various criteria.
 Booking System: Book and manage flight reservations.
 Authentication: Secure user authentication and authorization.
 
-### ""Configuration""
+### **Configuration**
 Edit the config.py file to set up your database connection and other configurations as needed.
 
 ### **Usage**
